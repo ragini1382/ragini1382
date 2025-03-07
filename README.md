@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ragini1382
-- 👀 I’m interested in Web development
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java, React.js Node.js
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me, via gmail jirapureragini1382@gmail.com
